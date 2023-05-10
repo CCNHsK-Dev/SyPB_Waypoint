@@ -9,4 +9,5 @@ SyPB Waypoint Database
 <br> // 2 - removeing waypoint from sypb\wptdefault and replace latestly version wp
 <br> // Default value: 2
 <br> sypb_download_waypoint 1
+<br>
 About SyPB: https://github.com/CCNHsK-Dev/SyPB
